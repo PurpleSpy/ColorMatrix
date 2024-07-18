@@ -1,0 +1,34 @@
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.exe
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.deps.json
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.runtimeconfig.json
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.dll
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.pdb
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.vbproj.AssemblyReference.cache
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color_Marix_reader.Form1.resources
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.vbproj.GenerateResource.cache
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.AssemblyInfo.vb
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.vbproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.dll
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\refint\Color Marix reader.dll
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.pdb
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.genruntimeconfig.cache
+C:\Users\drago\source\repos\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\ref\Color Marix reader.dll
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.exe
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.deps.json
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.runtimeconfig.json
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.dll
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\bin\Debug\net6.0-windows\Color Marix reader.pdb
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.vbproj.AssemblyReference.cache
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color_Marix_reader.Form1.resources
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.vbproj.GenerateResource.cache
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.AssemblyInfoInputs.cache
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.AssemblyInfo.vb
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.vbproj.CoreCompileInputs.cache
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.dll
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\refint\Color Marix reader.dll
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.pdb
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\Color Marix reader.genruntimeconfig.cache
+\\192.168.1.59\Nas Share\vs2022\Color Marix reader\Color Marix reader\obj\Debug\net6.0-windows\ref\Color Marix reader.dll
